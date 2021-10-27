@@ -1,7 +1,8 @@
 import React from 'react';
 
 const VideoList = (props) => {
-	return <div>Video List</div>;
+	console.log(props);
+	return <div>Video List: {props.videos.length}</div>;
 };
 
 export default VideoList;
