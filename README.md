@@ -1,18 +1,5 @@
-# React Video Search App (_in progress_)
+# React Video Search App
 
-This app searches any YouTube videos using YouTube API.
+###Live site: [reactvideosearch.netlify.app](https://reactvideosearch.netlify.app/)
 
-- _This project is currently being built._
-- Please feel free to see the files or come back later to view the live site. Thanks!
-
-<!-- ## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console. -->
+- Built with React + Semantic UI + YouTube API
